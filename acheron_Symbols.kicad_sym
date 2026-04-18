@@ -19792,8 +19792,8 @@
 		)
 		(symbol "STM32F411-UFQFPN48_0_1"
 			(rectangle
-				(start 41.91 41.91)
-				(end -40.64 -40.64)
+				(start -40.64 41.91)
+				(end 41.91 -40.64)
 				(stroke
 					(width 0.3048)
 					(type default)
@@ -20864,24 +20864,6 @@
 					(effects
 						(font
 							(size 0.635 0.635)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -38.1 44.45 270)
-				(length 2.54)
-				(name "THERMAL"
-					(effects
-						(font
-							(size 0.635 0.635)
-						)
-					)
-				)
-				(number "49"
-					(effects
-						(font
-							(size 0.508 0.508)
 						)
 					)
 				)
